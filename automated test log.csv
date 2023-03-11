@@ -1,0 +1,98 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+alltestsuite,Chrome 108.0.0.0,,,07/12/2022 6:19,07/12/2022 6:24,4m - 41.503s,PASSED
+,,,,,,,
+Test Cases/Testsuite1,Chrome 108.0.0.0,,,07/12/2022 6:19,07/12/2022 6:20,1m - 16.295s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,07/12/2022 6:19,07/12/2022 6:20,29.633s,PASSED
+"navigateToUrl(""http://localhost:8999/ScdProject/index.jsp"")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,5.029s,PASSED
+"click(findTestObject(""Object Repository/Page_E-BLOOD BANK/a_Admin Login (2)""))",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,3.762s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Login/input_Enter Username_username (2)""), ""admin"")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.885s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Admin Login/input_Enter Password_password (2)""), ""RAIVpflpDOg="")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,0.900s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Admin Login/input_Enter Password_password (2)""), Keys.chord(ENTER))",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,6.997s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Home/nav_E-BLOOD BANK                           _148b75""))",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.586s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Home/a_Add New Donor (1)""))",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.688s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Add Donor/input_Name_name (1)""), ""munir"")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.076s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Add Donor/input_Father Name_father (1)""), ""waqar"")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.517s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Add Donor/input_Mother Name_mother (1)""), ""yamna"")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.201s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Add Donor/input_address_address (1)""), ""gulshan "")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,0.953s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Add Donor/input_Mobile Number_mobilenumber (1)""), ""123123123123"")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.142s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Add Donor/input_Email_email (1)""), ""munir@gmail.com"")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.191s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Add Donor/button_Save (1)""))",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,8.825s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Add Donor/a_EditDelete List of Donor (1)""))",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,2.805s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Edit List/a_Delete (1)""))",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,3.141s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Edit List/body_E-BLOOD BANK                          _cf5cf4""))",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:20,1.441s,PASSED
+,,,,,,,
+Test Cases/TESTSUITE2,Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:22,1m - 13.997s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,07/12/2022 6:20,07/12/2022 6:21,29.932s,PASSED
+"navigateToUrl(""http://localhost:8999/ScdProject/index.jsp"")",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.746s,PASSED
+"click(findTestObject(""Object Repository/Page_E-BLOOD BANK/a_Admin Login (1)""))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.638s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Login/input_Enter Username_username (1)""), ""ADMIN"")",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.205s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Admin Login/input_Enter Password_password (1)""), ""XmnPW7mE0VA="")",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,0.675s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Admin Login/input_Enter Password_password (1)""), Keys.chord(ENTER))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.728s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_Admin Login/input_Enter Username_username (1)""))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.616s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Login/input_Enter Username_username (1)""), ""admin"")",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.050s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Admin Login/input_Enter Password_password (1)""), ""RAIVpflpDOg="")",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,0.608s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Admin Login/input_Enter Password_password (1)""), Keys.chord(ENTER))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,3.250s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Home/a_Manage Stock""))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,3.871s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Manage Stock/input_Units_units""), ""200"")",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,0.993s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Manage Stock/font_Save""))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,2.491s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Manage Stock/td_291""))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,3.250s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Manage Stock/input_Units_units""), ""200"")",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.062s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Admin Manage Stock/input_Units_units""), Keys.chord(ENTER))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,6.390s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Admin Manage Stock/select_IncreaseDecrease""), ""dec"", true)",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,2.683s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Manage Stock/input_Units_units""), ""200"")",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.103s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Manage Stock/tr_A491""))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,2.625s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Manage Stock/font_Save""))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:21,1.671s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Manage Stock/tr_A291""))",Chrome 108.0.0.0,,,07/12/2022 6:21,07/12/2022 6:22,3.065s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Manage Stock/h2_Units""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,0.764s,PASSED
+,,,,,,,
+Test Cases/testsuite3,Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:23,1m - 9.386s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,10.257s,PASSED
+"navigateToUrl(""http://localhost:8999/ScdProject/index.jsp"")",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,7.066s,PASSED
+"click(findTestObject(""Object Repository/Page_E-BLOOD BANK/a_User Login""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,0.811s,PASSED
+"click(findTestObject(""Object Repository/Page_User Login/input_Enter Username_username""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,0.617s,PASSED
+"click(findTestObject(""Object Repository/Page_User Login/a_User Login""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,0.898s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Login/input_Enter Username_username""), ""munir123"")",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,0.997s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_User Login/input_Enter Password_password""), ""E+NZEyO1D1jOuR2i5umC3Q=="")",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,0.785s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_User Login/input_Enter Password_password""), Keys.chord(ENTER))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,18.557s,PASSED
+"click(findTestObject(""Object Repository/Page_/a_Request Blood""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,4.174s,PASSED
+"click(findTestObject(""Object Repository/Page_User Request Blood/input_Recipient Name_name""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,0.660s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Request Blood/input_Recipient Name_name""), ""munir"")",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,1.133s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Request Blood/input_Mobile Number_mobilenumber""), ""923213123122"")",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,0.988s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Request Blood/input_Email_email""), ""munir@gmail.com"")",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,1.046s,PASSED
+"click(findTestObject(""Object Repository/Page_User Request Blood/button_Save""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,4.380s,PASSED
+"click(findTestObject(""Object Repository/Page_User Request Blood/a_Logout""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,1.470s,PASSED
+"click(findTestObject(""Object Repository/Page_E-BLOOD BANK/a_Admin Login (3)""))",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:22,1.253s,PASSED
+"setText(findTestObject(""Object Repository/Page_Admin Login/input_Enter Username_username (3)""), ""admin"")",Chrome 108.0.0.0,,,07/12/2022 6:22,07/12/2022 6:23,3.195s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Admin Login/input_Enter Password_password (3)""), ""RAIVpflpDOg="")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.678s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Admin Login/input_Enter Password_password (3)""), Keys.chord(ENTER))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.301s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Home/a_Request for Blood""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.890s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Request Blood/a_Done""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.539s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Request Blood/a_Request Completed""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.338s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Request Completed/tr_11munir923213123122munirgmail.comAcompleted""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,2.712s,PASSED
+"click(findTestObject(""Object Repository/Page_Admin Request Completed/body_E-BLOOD BANK                          _0f8509""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.630s,PASSED
+,,,,,,,
+Test Cases/testsuite4,Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:24,59.236s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,15.575s,PASSED
+"navigateToUrl(""http://localhost:8999/ScdProject/index.jsp"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.982s,PASSED
+"click(findTestObject(""Object Repository/Page_E-BLOOD BANK/a_User Login (1)""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.089s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Login/input_Enter Username_username (1)""), ""munir123"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.081s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_User Login/input_Enter Password_password (1)""), ""E+NZEyO1D1jOuR2i5umC3Q=="")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.791s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_User Login/input_Enter Password_password (1)""), Keys.chord(ENTER))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,4.927s,PASSED
+"click(findTestObject(""Object Repository/Page_/a_Contribute Money""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,4.654s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_OR_amount1""), ""-1000"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.173s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_Full Name-_name""), ""M1"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.918s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_Email Id-_email""), ""mun"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.342s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_Mobile Number-_contactnumber""), ""12"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.337s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/textarea_Address(Optional)-_address""), ""gulshan"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.587s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_City(Optional)-_city""), ""karachi"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.975s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_State(Optional)-_state""), ""sindh"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.954s,PASSED
+"click(findTestObject(""Object Repository/Page_User Contribute Money/input_State(Optional)-_submit""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,2.890s,PASSED
+"click(findTestObject(""Object Repository/Page_User Contribute Money/i_1000""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.826s,PASSED
+"click(findTestObject(""Object Repository/Page_User Contribute Money/input_State(Optional)-_submit""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.597s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_User Contribute Money/input_Full Name-_name""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.237s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_Full Name-_name""), ""Munir"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.070s,PASSED
+"click(findTestObject(""Object Repository/Page_User Contribute Money/input_State(Optional)-_submit""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.557s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_Email Id-_email""), ""munir@gmail.com"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,1.224s,PASSED
+"click(findTestObject(""Object Repository/Page_User Contribute Money/input_State(Optional)-_submit""))",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:23,0.601s,PASSED
+"setText(findTestObject(""Object Repository/Page_User Contribute Money/input_Mobile Number-_contactnumber""), ""121212121212"")",Chrome 108.0.0.0,,,07/12/2022 6:23,07/12/2022 6:24,1.112s,PASSED
+"click(findTestObject(""Object Repository/Page_User Contribute Money/input_State(Optional)-_submit""))",Chrome 108.0.0.0,,,07/12/2022 6:24,07/12/2022 6:24,10.791s,PASSED
